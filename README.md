@@ -9,11 +9,11 @@ SQLPWAudit is a very simple application, but it also implements parallel-process
 All processing is performed on the computer which is actually running SQLPWAudit - in fact, the SQL server is only accessed one time to grab the users and their binary passwords - so this is perfectly safe to execute against a production server as long as SQLPWAudit is actually running on a non-production system.
 
 Be sure to grab the most up-to-date version of our password list here:
-- [Word List Up to 3 Characters.zip](https://networkdls.com/DirectDownload/Word List Up to 3 Characters.zip)
-- [Word List Up to 4 Characters.zip](https://networkdls.com/DirectDownload/Word List Up to 4 Characters.zip)
-- [Word List Up to 6 Characters.zip](https://networkdls.com/DirectDownload/Word List Up to 6 Characters.zip)
-- [Word List Up to 8 Characters.zip](https://networkdls.com/DirectDownload/Word List Up to 8 Characters.zip)
-- [Word List Up to 16 Characters.zip](https://networkdls.com/DirectDownload/Word List Up to 16 Characters.zip)
+- [Word List Up to 3 Characters.zip](https://networkdls.com/DirectDownload/Word%20List%20Up%20to%203%20Characters.zip)
+- [Word List Up to 4 Characters.zip](https://networkdls.com/DirectDownload/Word%20List%20Up%20to%204%20Characters.zip)
+- [Word List Up to 6 Characters.zip](https://networkdls.com/DirectDownload/Word%20List%20Up%20to%206%20Characters.zip)
+- [Word List Up to 8 Characters.zip](https://networkdls.com/DirectDownload/Word%20List%20Up%20to%208%20Characters.zip)
+- [Word List Up to 16 Characters.zip](https://networkdls.com/DirectDownload/Word%20List%20Up%20to%2016%20Characters.zip)
 
 
 ![image](https://github.com/NTDLS/SQLPWAudit/assets/11428567/580223ef-5e48-4a34-acda-283f54cb6cd8)
